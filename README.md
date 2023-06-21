@@ -8,8 +8,6 @@
 - 果派德州是一款专注海外发行的休闲德州扑克，包含常规桌，赛事场，百人桌，时时彩等玩法。
 - master分支的代码为ILRuntime重构的半成品，已转为商业闭源，不再更新Github仓库。1.1分支为xLua较完整的版本，可在u3d中运行，以及发布Android版本运行。
 
-We are recruitsing agents worldwide, please contact us at lion@cragon.cn
-
 ### GooglePlay下载链接
 - https://play.google.com/store/apps/details?id=com.Cragon.KingTexas
 
@@ -30,8 +28,9 @@ We are recruitsing agents worldwide, please contact us at lion@cragon.cn
 - https://github.com/Tencent/xLua
 - https://www.getui.com/cn/index.html
 
-### 果派德州QQ技术交流群
-558157909
+### 果派德州联系方式
+微信：xiaolidog
+Email：lion@cragon.cn
 
 ### License
 [MIT](/LICENSE)
