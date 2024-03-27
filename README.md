@@ -1,4 +1,6 @@
 ﻿## 果派德州，客户端Unity3D源代码
+Copyright (c) 2021, Kazi Saabique Ahmed
+
 [![licence badge]][licence]
 [![stars badge]][stars]
 [![forks badge]][forks]
